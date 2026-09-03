@@ -6,7 +6,7 @@ Samansafn skyldrar virkni sem veitir notanda virði og er lýst með virknikröf
 
 Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
 
-## F-1
+## F-1 Sjálfvirk skráning frá eftirlitsmyndavél
 
 ## ✨ Lýsing
 > Hvaða getu eða þjónustu veitir kerfið notandanum?
@@ -20,7 +20,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 - [ ] Hár
 
 
-## F-2
+## F-2 Sjálfvirk greiðslubeiðni til notanda
 
 ## ✨ Lýsing
 > Hvaða getu eða þjónustu veitir kerfið notandanum?
@@ -35,7 +35,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 
 
-## F-3
+## F-3 Senda stöðu reikninga í gegnum Ísland.is
 
 ## ✨ Lýsing
 > Hvaða getu eða þjónustu veitir kerfið notandanum?

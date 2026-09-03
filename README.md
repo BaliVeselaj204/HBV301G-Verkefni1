@@ -1,18 +1,18 @@
 # 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
-<!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
+Heiti kerfis: Sjálfvirkt bílastæðakerfi
+Höfundar: Bali Nói Veselaj og Kristinn Freyr Óskarsson
 
-Heiti kerfis: 
-Höfundar: Nöfn nemenda 
-Stutt lýsing á kerfinu
+Lýsing:
+Kerfi sem að fylgist með lögðum bílum og heldur utan um skrá af bílaeigendum, 
+sér um að senda reikning á eiganda, ef eigandinn er ekki með nauðsynlegar upplýsingar
+þá er haft samband við eigandann. Kerfið er ætlað fyrir bíleigendur sem leggja í stæði
+á tilteknum gjaldskyldum svæðum.
+
 Stutt lýsing á innihaldi geymslunnar. 
     - Lesendur eru viðskiptavinir og kaupendur, notendur, kerfishönnuðir, forritarar og prófarar. Einnig verkefnisstjórar og viðhaldsteymi. 
 
-Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesenda 
--->
-
 <!-- Nemendur fjarlægi eftirfarandi eða setji sem comment áður en verkefni er skilað 
--->
 
 ## Geymslan er í fjórum hlutum
 - README, þessi skrá
@@ -79,3 +79,4 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með issues, branches og PR 
+-->

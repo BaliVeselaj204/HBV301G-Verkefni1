@@ -23,15 +23,19 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## F-2 Sjálfvirk greiðslubeiðni til notanda
 
 ## ✨ Lýsing
-> Hvaða getu eða þjónustu veitir kerfið notandanum?
+> Kerfið skráir sjálkrafa hvenær bíll leggur í stæði og hvenær hann fer, og reiknar svo út gjaldið
+fyrir tíman sem hann var lagður. Að stæðistíma loknum sendir kerfið kröfu í netbanka notandans án
+þess að hann þurfi að fá miða, skrá sig inn eða muna eftir að greiða handvirkt.
 
 ## ✅ Virði
-> Hvaða virði veitir þetta notandanum eða hvernig styður þetta við viðskiptamarkmið?
+> Notandinn þarf ekki lengur að muna eftir að greiða fyrir stæðið, taka miða eða óttast sekt fyrir að
+hafa gleymt einhverju. Hann leggur einfaldlega í stæði og fer, og kerfið sér um greiðsluna. Þetta eykur
+þægindi notandans, og kemur líka í veg fyrir að fá sekt fyrir að hafa gleymt að greiða.
 
 ## ⚖️ Forgangur
 - [ ] Lágur
 - [ ] Miðlungs
-- [ ] Hár
+- [x] Hár
 
 
 

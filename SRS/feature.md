@@ -9,15 +9,18 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## F-1 Sjálfvirk skráning frá eftirlitsmyndavél
 
 ## ✨ Lýsing
-> Hvaða getu eða þjónustu veitir kerfið notandanum?
+> Eftirlitsmyndavélar lesa skráningarnúmer ökutækis þegar það kemur inn á og yfirgefur gjaldsvæði. 
+Kerfið notar þessar upplýsingar til að skrá upphaf og lok tímans sjálfkrafa.
 
 ## ✅ Virði
-> Hvaða virði veitir þetta notandanum eða hvernig styður þetta við viðskiptamarkmið?
+> Kerfið skráir sjálfkrafa hvenær ökutæki kemur inn á gjaldsvæði og hvenær það yfirgefur það. 
+Notandinn þarf því ekki sjálfur að hefja eða stöðva tímann og minni hætta er á rangri skráningu 
+eða gjaldtöku vegna mistaka notandans.
 
 ## ⚖️ Forgangur
 - [ ] Lágur
 - [ ] Miðlungs
-- [ ] Hár
+- [x] Hár
 
 
 ## F-2 Sjálfvirk greiðslubeiðni til notanda

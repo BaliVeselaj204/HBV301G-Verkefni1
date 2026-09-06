@@ -15,3 +15,20 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Hvernig er hægt að mæla eða staðfesta að krafan sé uppfyllt?
 
 -->
+
+## QA-1
+
+## 🧰 Lýsing
+> Kerfið þarf að greina komu og brottför ökutækis í stæði með mikilli nákvæmni, svo að
+stæðistími og greiðsla reiknist rétt.
+
+## 🧪 Mælikvarði
+> Nákvæmni skráningar mælist með því að bera saman fjölda réttra skráninga við heildarfjölda skráninga.
+
+## QA-2
+
+## 🧰 Lýsing
+> Kerfið þarf að vera senda greiðslubeiðnir til notenda fjótt eftir að stæðistíma lýkur.
+
+## 🧪 Mælikvarði
+> Flestar greiðslubeiðnir ættu að berast notanda innan 5 mínútna frá því að hann fer úr stæði.

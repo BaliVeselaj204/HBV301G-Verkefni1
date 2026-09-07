@@ -23,11 +23,11 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## FR-2.1.1
 
 ## ⚙️ Lýsing
-> Kerfið skal skrá komu bíls í stæði sjálfkrafa (t.d. með myndavél) og skrá tímasetningu komunnar.
+> Kerfið skal reikna út lengd stæðistíma út frá skráðum komu- og brottfarartíma.
 
 ## 🧪 Staðfesting
-> Leggja bíl í stæði og athuga hvort kerfið skrái komutíma innan tiltekins tímaramma (t.d. innan 10 sekúndna)
-án handvirkar aðgerðar notanda.
+> Prófa með mismunandi komu- og brottfarartímum og staðfesta að útreiknaður
+stæðistími sé réttur í öllum tilvikum.
 
 ## 🔗 Tengd notendakrafa
 > UR-2.1
@@ -35,11 +35,11 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## FR-2.1.2
 
 ## ⚙️ Lýsing
-> Kerfið skal greina sjálkrafa þegar bíll yfirgefur stæðið og skrá tímasetningu brottfarar.
+> Kerfið skal finna þá gjaldskrá sem gildir fyrir viðkomandi gjaldsvæði.
 
 ## 🧪 Staðfesting
-> Fjarlægja bíl úr stæði og athuga hvort kerfið skrái brottfarartíma án handvirkar aðgerðar notanda.
-án handvirkar aðgerðar notanda.
+> Leggja bíl í mismunandi gjaldsvæði og staðfesta að kerfið velji rétta
+gjaldskrá fyrir hvert svæði.
 
 ## 🔗 Tengd notendakrafa
 > UR-2.1
@@ -47,11 +47,11 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## FR-2.1.3
 
 ## ⚙️ Lýsing
-> Kerfið skal reikna út heildarlengd stæðistíma út frá skráðri komu- og borttfarartíma.
+> Kerfið skal reikna greiðsluupphæð út frá stæðistíma og gildandi gjaldskrá.
 
 ## 🧪 Staðfesting
-> Bera saman útreiknaðan stæðistíma kerfisins við raunverulegan tíma sem bíll var lagður í stæðinu
-og staðfesta að þau séu alveg eins.
+> Prófa með mismunandi samsetningum af stæðistíma og gjaldskrám og staðfesta
+að útreiknuð upphæð sé rétt í hverju tilviki.
 
 ## 🔗 Tengd notendakrafa
 > UR-2.1
@@ -59,10 +59,11 @@ og staðfesta að þau séu alveg eins.
 ## FR-2.2.1
 
 ## ⚙️ Lýsing
-> Kerfið skal reikna út greiðsluupphæð sjálkrafa út frá stæðistíma og gildandi gjaldskrá.
+> Kerfið skal tengja skráningarnúmer ökutækis við réttan notandareikning.
 
 ## 🧪 Staðfesting
-> Prófa með mismunandi stæðistíma og staðfesta að útreiknuð upphæð sé í samræmi  við gjaldskrá kerfisins.
+> Prófa með mismunandi skráningarnúmerum og staðfesta að kerfið finni og
+tengi þau við rétta notendareikninga í hvert sinn
 
 ## 🔗 Tengd notendakrafa
 > UR-2.2
@@ -70,10 +71,11 @@ og staðfesta að þau séu alveg eins.
 ## FR-2.2.2
 
 ## ⚙️ Lýsing
-> Kerfið skal tengja skráða bílnúmerið við notandareikning til að finna réttar upplýsingar fyrir reikning.
+> Kerfið skal stofna greiðslubeiðni fyrir rétta upphæð á réttan notanda.
 
 ## 🧪 Staðfesting
-> Athuga með mismunandi bílnúmerum að kerfið finni réttan notanda.
+> Bera saman stofnaða greiðslubeiðni við útreiknaða upphæð og skráðan notanda,
+og staðfesta að hvort tveggja sé rétt.
 
 ## 🔗 Tengd notendakrafa
 > UR-2.2
@@ -81,10 +83,11 @@ og staðfesta að þau séu alveg eins.
 ## FR-2.2.3
 
 ## ⚙️ Lýsing
-> Kerfið skal senda notanda sjálfvirka greiðslu í netbanka innan 5 mínútna frá brottför úr stæði.
+> Kerfið skal senda greiðslubeiðnina í netbanka innan 5 mínútna frá lokum stæðistíma.
 
 ## 🧪 Staðfesting
-> Mæla tímann frá brottför bíls þar til krafa birtist í netbanka og staðfesta að hann sé innan tilskilins tímamarka.
+> Mæla tímann frá lokum stæðistíma þar til krafa birtist í netbanka notanda og staðfesta
+að hann sé innan 5 mínútna.
 
 ## 🔗 Tengd notendakrafa
 > UR-2.2

@@ -2,28 +2,25 @@
 
 ## Hópavinna og geymsla 
 
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+Hópmeðlimir eru Bali og Kristinn.
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push
+- Við skiptum verkum niður með issues á github og unnum þær flestar sjálfstætt.
+- Við rýndum svo yfir pull og merge requests hjá hvor öðrum.
+- Við notuðum sér branch fyrir hvert issue og gerðum merge við main þegar allt var tilbúið þar.
 
 ## Ígrundun
 - Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+    - Ákvörðun um hvað skyldi vera fjallað um og hvernig við myndum vilja hátta hlutunum fór vel fram.
+    - Unnið var heldur mikið í sprett í lokinn þannig næst mættum við vinna meira jafnt og óðum.
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 
-Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
+- Við notuðum chatgpt og claude við vinnslu verkefnisins.
+- Kvaðningarnar inniheldu eftirspurnum um tillögur hvernig kröfurnar ættu að vera háttaðar ásamt rökræðum um að kröfurnar væru að fara út fyrir sína ábyrgð.
+- Gervigreindin var notuð til þess að koma okkur áfram í verkefninu og að hjálpa okkur að ná að filla inn í allar eyður sem mynduðust hjá okkur.
+- Við tókum tillögurnar og umorðuðum þær betur þegar þær hljómuðuð illa.
+- Við yfirfórum efnið sem okkur var gefin af gervigreindinni og berum ábyrgð á þessum skilum.
 
-- hvaða gervigreindarverkfæri voru notuð,
-- hvaða kvaðningar (prompts) voru notaðar,
-- í hvaða tilgangi gervigreind var notuð,
-- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
 
-Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
 

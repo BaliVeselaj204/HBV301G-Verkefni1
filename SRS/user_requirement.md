@@ -23,13 +23,14 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 ## UR-2.1
 
 ## 👤 Notandi
-> Ökumenn sem leggja bílnum sínum í stæði.
+> Ökumenn sem nota gjaldskyld bílastæði.
 
 ## 🎯 Krafa
-> Notandinn á að geta lagt í stæði án þess að taka miða, skrá sig inn eða framkvæma neina aðgerð.
+> Notandinn á að vera rukkaður rétta upphæð samkvæmt stæðistíma sínum og gildandi gjaldskrá.
 
 ## 💬 Uppruni
-> Flestir hafa lent í því að mæta seint á stað og gleymt að skrá eða tekið of langan tíma til að leggja í bílastæði.
+> Notendur þurfa að geta treyst því að þeir greiði aðeins fyrir þann tíma sem ökutækið var á
+gjaldsvæðinu og samkvæmt réttri gjaldskrá.
 
 ## UR-2.2
 
@@ -37,7 +38,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Ökumenn sem hafa lokið stæðistíma sínum.
 
 ## 🎯 Krafa
-> Notandinn á að fá sjálfkrafa greiðslubeiðni sent eftir að stæðistíma lýkur.
+> Notandinn á að fá greiðslubeiðni eftir að stæðistíma lýkur.
 
 ## 💬 Uppruni
-> Margir hafa lent í því að keyra úr bílastæði án þessa að greiða og fengið sekt fyrir það.
+> Notendur geta gleymt að greiða eftir brottför og þannig átt á hættu að fá aukagjöld eða sekt.

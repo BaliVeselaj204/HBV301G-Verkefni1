@@ -26,14 +26,11 @@ eða gjaldtöku vegna mistaka notandans.
 ## F-2 Sjálfvirk greiðslubeiðni til notanda
 
 ## ✨ Lýsing
-> Kerfið skráir sjálkrafa hvenær bíll leggur í stæði og hvenær hann fer, og reiknar svo út gjaldið
-fyrir tíman sem hann var lagður. Að stæðistíma loknum sendir kerfið kröfu í netbanka notandans án
-þess að hann þurfi að fá miða, skrá sig inn eða muna eftir að greiða handvirkt.
+> Kerfið reiknar út gjaldið fyrir tíman sem bíll var lagður og sendir svo greiðslu á notanda.
 
 ## ✅ Virði
 > Notandinn þarf ekki lengur að muna eftir að greiða fyrir stæðið, taka miða eða óttast sekt fyrir að
-hafa gleymt einhverju. Hann leggur einfaldlega í stæði og fer, og kerfið sér um greiðsluna. Þetta eykur
-þægindi notandans, og kemur líka í veg fyrir að fá sekt fyrir að hafa gleymt að greiða.
+hafa gleymt einhverju. Hann leggur einfaldlega í stæði og fer, og kerfið sér um greiðsluna.
 
 ## ⚖️ Forgangur
 - [ ] Lágur

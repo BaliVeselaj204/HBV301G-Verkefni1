@@ -87,8 +87,6 @@ sé merkt sem lokið.
 ## 🔗 Tengd notendakrafa
 > UR-1.2
 
-
-
 ## FR-2.1.1
 
 ## ⚙️ Lýsing
@@ -231,6 +229,4 @@ upphæð og vísi í rétt gjaldsvæði.
 
 ## 🔗 Tengd notendakrafa
 > UR-3.2
-
-
 

@@ -18,6 +18,8 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 -->
 
+## Samhæfni við greiðslulausnir banka
+
 ## C-1
 
 ## 🔒 Lýsing
@@ -29,6 +31,8 @@ fjármálastofnana, þar sem greiðslur fara fram í gegnum þær leiðir.
 
 ## 🎯 Áhrif á hönnun eða þróun
 > Teymið getur ekki valið sína eigin lausn, heldur þarf að fara eftir reglur sem bankarnir bjóða upp á.
+
+## Fylgni við persónuverndarlög
 
 ## C-2
 

@@ -27,6 +27,8 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 - [ ] Samskiptaviðmót (Communications interface)
 -->
 
+## Tenging við Ísland.is
+
 ## UI-1
 
 ## 🔌 Skil
@@ -45,6 +47,8 @@ sem þjónustan skilgreinir.
 - [x] Hugbúnaðarviðmót (Software interface)
 - [ ] Vélbúnaðarviðmót (Hardware interface)
 - [ ] Samskiptaviðmót (Communications interface)
+
+## Tenging við greiðslugátt/netbanka
 
 ## UI-2
 

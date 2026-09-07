@@ -16,6 +16,8 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 -->
 
+## Nákvæmni skráningar
+
 ## QA-1
 
 ## 🧰 Lýsing
@@ -24,6 +26,8 @@ stæðistími og greiðsla reiknist rétt.
 
 ## 🧪 Mælikvarði
 > Nákvæmni skráningar mælist með því að bera saman fjölda réttra skráninga við heildarfjölda skráninga.
+
+## Áreiðanleiki sendingar greiðslubeiðna
 
 ## QA-2
 

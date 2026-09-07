@@ -19,6 +19,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Hvaðan kemur þessi notendaþörf, t.d. úr viðtali, athugun, eigin þekkingu á viðfangsefninu eða annarri heimild?
 
 -->
+## Akstur inn í gjaldsvæði
 
 ## UR-1.1
 
@@ -32,6 +33,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Byggt á eigin þekkingu á bílastæðakerfum þar sem notendur geta gleymt að hefja stæðisskráningu, 
 skráð hana of seint eða gleymt að endurnýja skráningu.
 
+## Yfirgefa gjaldsvæði
 
 ## UR-1.2
 
@@ -45,6 +47,8 @@ skráð hana of seint eða gleymt að endurnýja skráningu.
 > Byggt á eigin þekkingu á bílastæðakerfum þar sem notendur geta gleymt að stöðva talningu stæðistíma 
 og verið rukkaðir um sekt.
 
+## Rétt upphæð fyrir rukkun
+
 ## UR-2.1
 
 ## 👤 Notandi
@@ -57,6 +61,8 @@ og verið rukkaðir um sekt.
 > Notendur þurfa að geta treyst því að þeir greiði aðeins fyrir þann tíma sem ökutækið var á
 gjaldsvæðinu og samkvæmt réttri gjaldskrá.
 
+## Sjálfvirk greiðslubeiðni eftir stæðistíma
+
 ## UR-2.2
 
 ## 👤 Notandi
@@ -68,6 +74,8 @@ gjaldsvæðinu og samkvæmt réttri gjaldskrá.
 ## 💬 Uppruni
 > Notendur geta gleymt að greiða eftir brottför og þannig átt á hættu að fá aukagjöld eða sekt.
 
+## Tilkynning um lagðan bíl
+
 ## UR-3.1
 
 ## 👤 Notandi
@@ -78,6 +86,8 @@ gjaldsvæðinu og samkvæmt réttri gjaldskrá.
 
 ## 💬 Uppruni
 > Notendur þarf að vita þegar ökutæki sem hann er skráður eigandi hefur verið lagt í gjaldskylt stæði.
+
+## Upplýsingar um greiðslu stæðis
 
 ## UR-3.2
 

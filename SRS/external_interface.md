@@ -46,7 +46,7 @@ sem þjónustan skilgreinir.
 - [ ] Vélbúnaðarviðmót (Hardware interface)
 - [ ] Samskiptaviðmót (Communications interface)
 
-## UI-1
+## UI-2
 
 ## 🔌 Skil
 > Kerfið hefur samskipti við greiðslugátt/netbanka fjármálastofnana til að senda

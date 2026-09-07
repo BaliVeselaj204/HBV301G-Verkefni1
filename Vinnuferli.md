@@ -16,7 +16,7 @@ Hópmeðlimir eru Bali og Kristinn.
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 
 - Við notuðum chatgpt og claude við vinnslu verkefnisins.
-- Kvaðningarnar inniheldu eftirspurnum um tillögur hvernig kröfurnar ættu að vera háttaðar ásamt rökræðum um að kröfurnar væru að fara út fyrir sína ábyrgð.
+- Kvaðningarnar inniheldu eftirspurnir um tillögur hvernig kröfurnar ættu að vera háttaðar ásamt rökræðum um að kröfurnar væru að fara út fyrir sína ábyrgð.
 - Gervigreindin var notuð til þess að koma okkur áfram í verkefninu og að hjálpa okkur að ná að filla inn í allar eyður sem mynduðust hjá okkur.
 - Við tókum tillögurnar og umorðuðum þær betur þegar þær hljómuðuð illa.
 - Við yfirfórum efnið sem okkur var gefin af gervigreindinni og berum ábyrgð á þessum skilum.

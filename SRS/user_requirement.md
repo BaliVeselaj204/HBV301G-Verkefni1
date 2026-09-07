@@ -20,6 +20,31 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 -->
 
+## UR-1.1
+
+## 👤 Notandi
+> Ökumenn sem aka inn á gjaldsvæði.
+
+## 🎯 Krafa
+> Notandi á að geta hafið talningu stæðistíma án þess að skrá komu sína handvirkt.
+
+## 💬 Uppruni
+> Byggt á eigin þekkingu á bílastæðakerfum þar sem notendur geta gleymt að hefja stæðisskráningu, 
+skráð hana of seint eða gleymt að endurnýja skráningu.
+
+
+## UR-1.2
+
+## 👤 Notandi
+> Ökumenn sem yfirgefa gjaldsvæði.
+
+## 🎯 Krafa
+> Notandi á að geta lokið talningu stæðistíma án þess að stöðva stæðisskráninguna handvirkt.
+
+## 💬 Uppruni
+> Byggt á eigin þekkingu á bílastæðakerfum þar sem notendur geta gleymt að stöðva talningu stæðistíma 
+og verið rukkaðir um sekt.
+
 ## UR-2.1
 
 ## 👤 Notandi

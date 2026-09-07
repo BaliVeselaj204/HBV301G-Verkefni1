@@ -19,3 +19,16 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Vísaðu í tengdar kröfur, ef við á.
 
 -->
+
+## SR-1
+
+## 🛠️ Lýsing
+> Kerfið í heild skal geta fylgt bíl frá því hann leggur ĺ stæði þar til að greiðsla hefur verið
+innheimt, án þess að notandi eða starfsfólk þurfi að grípa inn í ferlið.
+
+## 🧩 Kerfishlutar
+> Krafan varðar bæði vélbúnað (skynjarar/myndavélar sem greina komu og brottför) og hugbúnað
+(útreikningur á stæðistíma og upphæð, tenging við notandareikninga, sending greiðslubeiðni).
+
+## 🔗 Tengdar kröfur
+> F-1, F-2, F-3, BREQ1, BREQ2

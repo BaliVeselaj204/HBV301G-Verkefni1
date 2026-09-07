@@ -26,7 +26,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Ökumenn sem aka inn á gjaldsvæði.
 
 ## 🎯 Krafa
-> Notandi á að hafið talningu stæðistíma án þess að skrá komu sína handvirkt.
+> Notandi á að geta hafið talningu stæðistíma án þess að skrá komu sína handvirkt.
 
 ## 💬 Uppruni
 > Byggt á eigin þekkingu á bílastæðakerfum þar sem notendur geta gleymt að hefja stæðisskráningu, 

@@ -36,7 +36,7 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Kerfið skal lesa skráningarnúmer ökutækis sem kemur inn á gjaldsvæði.
 
 ## 🧪 Staðfesting
-> Aka mismunandi ökutækjum inn á gjaldsvæðið og staðfesta að rétt númeraplata hafi verið lesin.
+> Aka mismunandi ökutækjum inn á gjaldsvæðið og staðfesta að rétt bílnúmer hafi verið lesið.
 
 ## 🔗 Tengd notendakrafa
 > UR-1.1
@@ -78,7 +78,7 @@ gjaldsvæði og komutíma.
 ## FR-1.2.3
 
 ## ⚙️ Lýsing
-> Kerfið skal skrá brotfarartíma ökutæki og ljúka talningu stæðistíma þess ökutækis.
+> Kerfið skal skrá brottfarartíma ökutæki og ljúka talningu stæðistíma þess ökutækis.
 
 ## 🧪 Staðfesting
 > Aka ökutæki út af gjaldsvæðinu og staðfesta að brottfarartíminn sé skráður á rétt ökutæki og að henni 

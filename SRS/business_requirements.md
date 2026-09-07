@@ -23,3 +23,24 @@ Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requireme
 > Tengsl við aðrar kröfur, markmið eða hugmyndir
 -->
 
+## Titill: [Sjálfvirk greiðsla]
+
+## 🧭 Lýsing
+> Fólk á aldrei að þurfa að hafa áhyggjur af því að gleyma að borga fyrir stæðið sitt.
+
+## 🏢 Viðskiptalegt samhengi
+> Færri sektir gerir viðskiptavni ánægðari. Fólk treystir kerfinu frekar þegar það vinnur með þeim, ekki gegn þeim.
+
+## 📌 Athugasemdir
+> Tengist F-2 (sjálfvirk greiðslubeiðni) og þeim notenda- og virknikröfum sem því fylgja.
+
+## Titill: [Einföld notkun kerfisins]
+
+## 🧭 Lýsing
+> Að leggja í stæði á að vera eins einfalt og hægt er. Enginn miðar, engin innskráning, ekkert að muna eftir.
+
+## 🏢 Viðskiptalegt samhengi
+> Ánægðir notendur eru líklegri til að nota stæðið aftur og mæla með því við aðra.
+
+## 📌 Athugasemdir
+> Tengist F-1 (sjálfvirk skráning) og F-2 (sjálfvirk greiðslubeiðni)

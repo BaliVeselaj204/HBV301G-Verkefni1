@@ -19,6 +19,75 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Vísaðu í notendakröfu sem þessi virknikrafa styður, ef við á.
 
 -->
+## FR-1.1.1
+
+## ⚙️ Lýsing
+> Kerfið skal greina þegar ökutæki kemur inn á gjaldsvæði.
+
+## 🧪 Staðfesting
+> Aka ökutæki inn á gjaldsvæðið og staðfesta að kerfið nái að greina komu þess.
+
+## 🔗 Tengd notendakrafa
+> UR-1.1
+
+## FR-1.1.2
+
+## ⚙️ Lýsing
+> Kerfið skal lesa skráningarnúmer ökutækis sem kemur inn á gjaldsvæði.
+
+## 🧪 Staðfesting
+> Aka mismunandi ökutækjum inn á gjaldsvæðið og staðfesta að rétt númeraplata hafi verið lesin.
+
+## 🔗 Tengd notendakrafa
+> UR-1.1
+
+## FR-1.1.3
+
+## ⚙️ Lýsing
+> Kerfið skal stofna virka talningu með bílnúmeri ökutækis, gjaldsvæði og komutíma.
+
+## 🧪 Staðfesting
+> Aka ökutæki inn á gjaldsvæðið og staðfesta að talning stæðistíma af rétt skráðu bílnúmeri, 
+gjaldsvæði og komutíma.
+
+## 🔗 Tengd notendakrafa
+> UR-1.1
+
+## FR-1.2.1
+
+## ⚙️ Lýsing
+> Kerfið skal greina þegar ökutæki yfirgefur gjaldsvæði.
+
+## 🧪 Staðfesting
+> Aka ökutæki út af gjaldsvæðinu og staðfesta að kerfið greini brottför þess.
+
+## 🔗 Tengd notendakrafa
+> UR-1.2
+
+## FR-1.2.2
+
+## ⚙️ Lýsing
+> Kerfið skal lesa bílnúmer ökutækis við brottför og finna skráningu þess innan kerfisins.
+
+## 🧪 Staðfesting
+> Aka ökutæki sem er með virka talningu út af gjaldsvæðinu og staðfesta að kerfið finni rétta skráningu.
+
+## 🔗 Tengd notendakrafa
+> UR-1.2
+
+## FR-1.2.3
+
+## ⚙️ Lýsing
+> Kerfið skal skrá brotfarartíma ökutæki og ljúka talningu stæðistíma þess ökutækis.
+
+## 🧪 Staðfesting
+> Aka ökutæki út af gjaldsvæðinu og staðfesta að brottfarartíminn sé skráður á rétt ökutæki og að henni 
+sé merkt sem lokið.
+
+## 🔗 Tengd notendakrafa
+> UR-1.2
+
+
 
 ## FR-2.1.1
 

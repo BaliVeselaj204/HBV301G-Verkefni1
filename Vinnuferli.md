@@ -10,9 +10,8 @@ Hópmeðlimir eru Bali og Kristinn.
 - Við notuðum sér branch fyrir hvert issue og gerðum merge við main þegar allt var tilbúið þar.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Ákvörðun um hvað skyldi vera fjallað um og hvernig við myndum vilja hátta hlutunum fór vel fram.
-    - Unnið var heldur mikið í sprett í lokinn þannig næst mættum við vinna meira jafnt og óðum.
+ - Ákvörðun um hvað skyldi vera fjallað um og hvernig við myndum vilja hátta hlutunum fór vel fram.
+ - Unnið var heldur mikið í sprett í lokinn þannig næst mættum við vinna meira jafnt og óðum.
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 

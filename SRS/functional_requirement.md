@@ -161,3 +161,76 @@ að hann sé innan 5 mínútna.
 ## 🔗 Tengd notendakrafa
 > UR-2.2
 
+## FR-3.1.1
+
+## ⚙️ Lýsing
+> Kerfið skal hefja tilkynningarferli þegar ný skráning er stofnuð.
+
+## 🧪 Staðfesting
+> Stofna skráningu ökutækis og staðfesta að tilkynningarferlið hefjist.
+
+## 🔗 Tengd notendakrafa
+> UR-3.1
+
+## FR-3.1.2
+
+## ⚙️ Lýsing
+> Kerfið skal finna kennitölu skráðs eiganda ökutækis þegar ný talning er stofnuð.
+
+## 🧪 Staðfesting
+> Stofna skráningu fyrir ökutæki með þekkt bílnúmer og staðfesta að kerfið finni kennitölu hjá 
+skráðum eiganda.
+
+## 🔗 Tengd notendakrafa
+> UR-3.1
+
+## FR-3.1.3
+
+## ⚙️ Lýsing
+> Kerfið skal senda tilkynningu til skráðs eiganda ökutækisins í gegnum Ísland.is innan tiltekins tíma 
+frá því að skráningin sé stofnuð.
+
+## 🧪 Staðfesting
+> Stofna skráningu og mæla tímann þar til tilkynning berst réttum notanda í gegnum Ísland.is.
+
+## 🔗 Tengd notendakrafa
+> UR-3.1
+
+## FR-3.2.1
+
+## ⚙️ Lýsing
+> Kerfið skal hefja tilkynningarferli þegar greiðslubeiðni hefur verið stofnuð.
+
+## 🧪 Staðfesting
+> Stofna greiðslubeiðni fyrir ökutæki og staðfesta að tilkynningarferli kerfisins hefjist.
+
+## 🔗 Tengd notendakrafa
+> UR-3.2
+
+## FR-3.2.2
+
+## ⚙️ Lýsing
+> Tilkynning um greiðslubeiðni skal innihalda upphæð greiðslubeiðninnar og upplýsingar um hvaða 
+gjaldsvæði hún tilheyrir.
+
+## 🧪 Staðfesting
+> Stofna greiðslubeiðni með fyrirfram þekktri upphæð og staðfesta að tilkynningin innihaldi rétta 
+upphæð og vísi í rétt gjaldsvæði.
+
+## 🔗 Tengd notendakrafa
+> UR-3.2
+
+## FR-3.2.3
+
+## ⚙️ Lýsing
+> Kerfið skal senda tilkynningu um greiðslubeiðnina til viðkomandi notanda í gegnum Ísland.is.
+
+## 🧪 Staðfesting
+> Stofna greiðslubeiðni fyrir prófunarnotanda og staðfesta að tilkynning berist viðkomandi notanda 
+í gegnum Ísland.is.
+
+## 🔗 Tengd notendakrafa
+> UR-3.2
+
+
+

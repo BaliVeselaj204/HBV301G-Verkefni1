@@ -42,13 +42,17 @@ hafa gleymt einhverju. Hann leggur einfaldlega í stæði og fer, og kerfið sé
 ## F-3 Senda stöðu reikninga í gegnum Ísland.is
 
 ## ✨ Lýsing
-> Hvaða getu eða þjónustu veitir kerfið notandanum?
+> Kerfið sendir notanda sjálfvirkar tilkynningar í gegnum Ísland.is þegar mikilvægir atburðir 
+eiga sér stað, svo sem þegar greiðslubeiðni hefur verið stofnuð, greiðslukvittun, nánari upplýsingar 
+um tímalengd og verð.
 
 ## ✅ Virði
-> Hvaða virði veitir þetta notandanum eða hvernig styður þetta við viðskiptamarkmið?
+> Notandinn fær skýrar og tímanlegar upplýsingar um stæðið sitt og greiðslur án þess að þurfa 
+sjálfur að fylgjast með kerfinu. Með því að tengja tilkynningar við kennitölu er hægt að senda 
+upplýsingarnar á réttan aðila.
 
 ## ⚖️ Forgangur
 - [ ] Lágur
 - [ ] Miðlungs
-- [ ] Hár
+- [x] Hár
 

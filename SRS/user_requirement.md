@@ -67,3 +67,25 @@ gjaldsvæðinu og samkvæmt réttri gjaldskrá.
 
 ## 💬 Uppruni
 > Notendur geta gleymt að greiða eftir brottför og þannig átt á hættu að fá aukagjöld eða sekt.
+
+## UR-3.1
+
+## 👤 Notandi
+> Ökumenn sem hafa lagt í gjaldskylt stæði.
+
+## 🎯 Krafa
+> Notandinn á að fá tilkynningu þegar hann leggur í gjaldskylt stæði
+
+## 💬 Uppruni
+> Notendur þarf að vita þegar ökutæki sem hann er skráður eigandi hefur verið lagt í gjaldskylt stæði.
+
+## UR-3.2
+
+## 👤 Notandi
+> Ökumenn sem hafa fengið greiðslubeiðni vegna stæðis.
+
+## 🎯 Krafa
+> Notandinn á að fá upplýsingar um greiðslu vegna stæðisins þegar greiðslubeiðni hefur verið stofnuð.
+
+## 💬 Uppruni
+> Notendur þurfa að vita að greiðslubeiðni hefur verið stofnuð og hvaða upphæð þeir eiga að greiða.
